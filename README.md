@@ -7,3 +7,6 @@ master
 # 基础git命令教程
 - http://rogerdudler.github.io/git-guide/index.zh.html
 ```
+
+
+test no-ff
