@@ -1,6 +1,7 @@
 ## 总结常用的Git命令
 new_branch
 test_remote_merge
+remote_merge
 #### 推荐网址
 ```
 # 在线练习git命令
